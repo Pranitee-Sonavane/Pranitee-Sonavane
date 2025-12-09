@@ -7,6 +7,7 @@
 ✨ **Tech Enthusiast** who loves designing & developing cool projects!  
 🎨 **Passionate Artist** – Sketching, painting & photography are my happy place.  
 💡 **Always Learning** – Exploring Java, UI/UX, and mobile app development.
+
 ✨ **Check out my Portfolio:** - (https://pranitee-portfolio.vercel.app/)   
 🖼️ **Check out my Artfolio:** - (https://artfolio-mauve.vercel.app/) 🎨  
 
