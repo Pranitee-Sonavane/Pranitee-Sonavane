@@ -28,13 +28,14 @@
 
 ---
 
-## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranitee-Sonavane&show_icons=true&theme=calm&cache_seconds=86400" />
+</p>
 
-![Pranitee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranitee-Sonavane&show_icons=true&theme=calm)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitee-Sonavane&layout=compact&theme=calm&cache_seconds=86400" />
+</p>
 
-## 📊 Most Languages Used  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitee-Sonavane&layout=compact&theme=calm)
 
 
 ---
