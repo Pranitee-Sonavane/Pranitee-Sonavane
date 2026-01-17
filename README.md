@@ -29,10 +29,13 @@
 ---
 
 ## 📊 GitHub Stats  
-![Pranitee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranitee-Sonavane&show_icons=true&theme=calm)  
 
-## 📊 Most Languages Used
+![Pranitee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranitee-Sonavane&show_icons=true&theme=calm)
+
+## 📊 Most Languages Used  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitee-Sonavane&layout=compact&theme=calm)
+
 
 ---
 
